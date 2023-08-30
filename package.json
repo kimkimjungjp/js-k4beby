@@ -1,0 +1,10 @@
+{
+  "name": "js-atafxq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.9.17",
+    "@line/liff": "^2.22.3",
+    "firebase": "^10.3.0"
+  }
+}
